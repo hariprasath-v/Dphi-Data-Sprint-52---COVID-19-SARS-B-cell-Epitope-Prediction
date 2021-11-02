@@ -4,7 +4,7 @@
 
 ### Predicting epitope regions is beneficial for the design and development of vaccines aimed to induce antigen-specific antibody production.
 
-### Competition hosted on <a href="https://dphi.tech/challenges/data-sprint-52-covid-19-sars-b-cell-epitope-prediction/169/overview/about"> Dphi site </a>
+### Competition hosted on <a href="https://dphi.tech/challenges/data-sprint-52-covid-19-sars-b-cell-epitope-prediction/169/overview/about"> Dphi </a>
 
 ### Competition Leaderboard Rank - 2 
 
