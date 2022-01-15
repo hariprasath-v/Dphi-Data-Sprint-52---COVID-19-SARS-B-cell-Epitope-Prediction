@@ -29,10 +29,10 @@
      
 ### Feature Importance     
 
-![Alt text](https://github.com/hariprasath-v/Dphi-Data-Sprint-52---COVID-19-SARS-B-cell-Epitope-Prediction/blob/AnalyticsVidhya-ML-DS-Competition/Feature%20%20Importance.png)
+![Alt text](https://github.com/hariprasath-v/Dphi-Data-Sprint-52---COVID-19-SARS-B-cell-Epitope-Prediction/blob/main/Feature%20%20Importance.png)
 
 ### Hyperparameter Importance
 
-![Alt text](https://github.com/hariprasath-v/Dphi-Data-Sprint-52---COVID-19-SARS-B-cell-Epitope-Prediction/blob/AnalyticsVidhya-ML-DS-Competition/Hyperparameter%20Importance.png)
+![Alt text](https://github.com/hariprasath-v/Dphi-Data-Sprint-52---COVID-19-SARS-B-cell-Epitope-Prediction/blob/main/Hyperparameter%20Importance.png)
     
 
